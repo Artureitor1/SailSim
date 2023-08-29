@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SailSimulation", "SailSimulation\SailSimulation.vcxproj", "{7202FB4F-B54D-45CC-A90F-036E5874D49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7202FB4F-B54D-45CC-A90F-036E5874D49D}.Debug|x64.ActiveCfg = Debug|x64
+		{7202FB4F-B54D-45CC-A90F-036E5874D49D}.Debug|x64.Build.0 = Debug|x64
+		{7202FB4F-B54D-45CC-A90F-036E5874D49D}.Debug|x86.ActiveCfg = Debug|Win32
+		{7202FB4F-B54D-45CC-A90F-036E5874D49D}.Debug|x86.Build.0 = Debug|Win32
+		{7202FB4F-B54D-45CC-A90F-036E5874D49D}.Release|x64.ActiveCfg = Release|x64
+		{7202FB4F-B54D-45CC-A90F-036E5874D49D}.Release|x64.Build.0 = Release|x64
+		{7202FB4F-B54D-45CC-A90F-036E5874D49D}.Release|x86.ActiveCfg = Release|Win32
+		{7202FB4F-B54D-45CC-A90F-036E5874D49D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66883FF6-1C7F-46A9-93BC-9FAF4E920A99}
+	EndGlobalSection
+EndGlobal
